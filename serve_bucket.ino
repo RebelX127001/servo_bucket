@@ -1,4 +1,4 @@
-#include <Servo.h>; //impor
+#include <Servo.h>;
 int led = 13;
 int trig = 11;
 int echo = 12;
