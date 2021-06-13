@@ -6,7 +6,7 @@ int sPin = 8;
 long duration;
 float ft, cm;
 
-Servo servoC; //create an object of the
+Servo servoC; //create an object of
 void setup() {
   Serial.begin (9600);
   pinMode (led, OUTPUT);
