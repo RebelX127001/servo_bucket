@@ -18,7 +18,7 @@ void setup() {
 }
 
 void loop() {
-  digitalWrite (trig, LOW); //clean sheet
+  digitalWrite (trig, LOW); //clean
   delay (100);
   digitalWrite (trig, HIGH);
   delay (100);
