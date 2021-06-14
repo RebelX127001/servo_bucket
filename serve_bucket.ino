@@ -18,7 +18,7 @@ void setup() {
 }
 
 void loop() {
-  digitalWrite (trig, LOW); //clean
+  digitalWrite (trig, LOW); //
   delay (100);
   digitalWrite (trig, HIGH);
   delay (100);
